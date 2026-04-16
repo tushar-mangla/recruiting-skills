@@ -22,7 +22,7 @@ Plus: a **pipeline tracker template** and **playbooks** for capturing what worke
 Click **Code -> Download ZIP** on GitHub, then unzip it. Or clone it:
 
 ```
-git clone https://github.com/michaljuhas/recruiting-skills.git
+git clone https://github.com/tusharmangla/recruiting-skills.git
 ```
 
 **Step 2: Choose an install option**
@@ -134,17 +134,16 @@ But you can use any skill independently. Paste a JD and get an ICP. Paste a prof
 
 ## Support
 
-This project was created by **Michal Juhas**, an AI advisor helping teams get more productive with AI.
+This project was created by **Tushar Mangla**, an AI advisor helping recruiting teams get more productive with AI.
 
 For implementation support, workshops, and community:
-- Join the community at [aiwithmichal.com](https://aiwithmichal.com?ref=GitHub&utm_source=github&utm_medium=readme&utm_campaign=recruiting-skills)
-- Get individual or group support to set up AI-powered recruiting workflows
-- Attend workshops to learn how to get the most out of AI in your daily work
+- Visit the website: [recruitmentos.smallgrp.com](https://recruitmentos.smallgrp.com/)
+- Join the community: [WhatsApp Group](https://chat.whatsapp.com/I9PLSmDMJ06B6qYYVsRb0q?mode=gi_t)
+- Run a free audit: [recruitment-audit.netlify.app](https://recruitment-audit.netlify.app/)
 
 ## Contact
 
-- Personal website: [michaljuhas.com](https://michaljuhas.com)
-- Connect on LinkedIn: [linkedin.com/in/michaljuhas](https://www.linkedin.com/in/michaljuhas/)
+- Connect on LinkedIn: [linkedin.com/in/tusharmanglatm](https://www.linkedin.com/in/tusharmanglatm/)
 
 ## License
 
